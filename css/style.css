@@ -58,7 +58,6 @@ li a:hover{
 }
 #aboutBio{
   position: relative;
-  left: 50px;
   top: 25px;
 }
 .photoGalleryRow{
@@ -164,6 +163,3 @@ li{
 #photoBio p {
   font-size: 20px;
 }
-
-
-
